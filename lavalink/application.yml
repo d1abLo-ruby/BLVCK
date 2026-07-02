@@ -25,3 +25,4 @@ plugins:
       - MUSIC
       - ANDROID_TESTSUITE
       - WEB
+      - TVHTML5EMBEDDED
