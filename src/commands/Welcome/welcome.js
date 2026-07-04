@@ -31,7 +31,7 @@ export default {
                 .addBooleanOption(option =>
                     option.setName('ping')
                         .setDescription('Whether to ping the user in the welcome message')
-                        .setRequired(false))),
+                        .setRequired(true))),
 
     async execute(interaction) {
         try {
